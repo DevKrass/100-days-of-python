@@ -20,48 +20,16 @@ Projects are organized into individual directories corresponding to their course
 
 Each project directory contains its source code and, where appropriate, project-specific documentation and supporting files.
 
-## Topics Covered
+## Technology Index
 
-The course projects progressively explore topics such as:
+- **Python:** core language, functions, data structures, OOP, exceptions, comprehensions
+- **Development tools:** PyCharm, Jupyter Notebook, Google Colab, Git, GitHub
+- **Desktop and games:** Turtle, Tkinter
+- **Web and browser automation:** Requests, Beautiful Soup, Selenium
+- **Web development:** HTML, CSS, Bootstrap, Flask, Jinja, WTForms
+- **Databases:** SQL, SQLite, SQLAlchemy;
+- **Data analysis and visualisation:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **APIs and integrations:** HTTP/REST APIs, JSON, SMTP, external service APIs
+- **Machine learning:** regression and related introductory modelling workflows
 
-- Python fundamentals and control flow
-- Data structures and functions
-- Object-oriented programming
-- File handling and error management
-- APIs, web development, and databases
-- Automation, scripting, and application development
-
-The topics listed reflect the general scope of the course and will be refined as the repository develops.
-
-## Requirements
-
-- Python 3
-- Git
-
-Individual projects may require additional dependencies. Refer to the relevant project documentation for setup instructions.
-
-## Running a Project
-
-Clone the repository:
-
-```bash
-git clone https://github.com/DevKrass/100-days-of-python.git
-cd 100-days-of-python
-```
-
-Navigate to a project directory and run its entry point:
-
-```bash
-cd day-001-band-name-generator
-python main.py
-```
-
-Depending on your environment, you may need to use `python3` instead of `python`.
-
-## Scope
-
-This repository is intended for educational purposes and documents practical exercises completed throughout the course. Projects may be refactored or extended as my understanding of Python develops.
-
-## Course
-
-[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+For a detailed overview of the projects, topics covered, and technologies used throughout the course, see [PROJECTS.md](PROJECTS.md).
