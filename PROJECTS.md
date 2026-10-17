@@ -30,7 +30,7 @@ Status values: `Not started`, `In progress`, `Completed`.
 | 5 | Password Generator | `for` loops, `range()`, lists, random selection | Core Python | Completed |
 | 6 | Escaping the Maze | Functions, `while` loops, indentation, breaking down problems | Functions and loops | Completed |
 | 7 | Hangman | Problem decomposition, flowcharts, strings, lists, loops, game state | Problem-solving | Completed |
-| 8 | Caesar Cipher | Function parameters, arguments, encryption/decryption, refactoring | Functions | Not started |
+| 8 | Caesar Cipher | Function parameters, arguments, encryption/decryption, refactoring | Functions | Completed |
 | 9 | Secret Auction | Dictionaries, nested data structures, collecting and comparing values | Data structures | Not started |
 | 10 | Calculator | Return values, multiple returns, docstrings, functions as values | Functions | Not started |
 | 11 | Blackjack | Combining core Python concepts in a larger project | Capstone game | Not started |
@@ -124,14 +124,3 @@ Status values: `Not started`, `In progress`, `Completed`.
 | 99 | Space Race Data Analysis | Cleaning, joining, analysing and visualising a real-world dataset | Data analysis | Not started |
 | 100 | Multivariable Regression / Earnings Prediction | Feature relationships, regression modelling, prediction and evaluation | Machine learning | Not started |
 
-## Technology Index
-
-- **Python:** core language, functions, data structures, OOP, exceptions, comprehensions
-- **Development tools:** PyCharm, Jupyter Notebook, Google Colab, Git, GitHub
-- **Desktop and games:** Turtle, Tkinter
-- **Web and browser automation:** Requests, Beautiful Soup, Selenium
-- **Web development:** HTML, CSS, Bootstrap, Flask, Jinja, WTForms
-- **Databases:** SQL, SQLite, SQLAlchemy;
-- **Data analysis and visualisation:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **APIs and integrations:** HTTP/REST APIs, JSON, SMTP, external service APIs
-- **Machine learning:** regression and related introductory modelling workflows
